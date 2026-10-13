@@ -1,3 +1,6 @@
-console.log("hello world");
-console.log(global);
-console.log(process);
+const {generateRandomNumber,celciusToFahreneit} = require('./utils');
+
+console.log(`Random Number:${generateRandomNumber()}`);
+console.log(`Celcius to fahrenhiet:${celciusToFahreneit(0)}`)
+
+
