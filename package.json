@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "Node.js crash course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janet-barbie/nodejs-crash-course.git"
+  },
+  "author": "Janet Uwimana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/janet-barbie/nodejs-crash-course/issues"
+  },
+  "homepage": "https://github.com/janet-barbie/nodejs-crash-course#readme"
+}
